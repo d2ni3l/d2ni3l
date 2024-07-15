@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
+
+<img src='https://i.pinimg.com/originals/1d/6b/c0/1d6bc03c3dd55bc1c59cec84edb81a46.gif' width='400' align='left'>
 - 🔭 I’m currently working on [StoreFront](https://github.com/d2ni3l/StoreFront)
 
 - 🌱 I’m currently learning **Angular**
