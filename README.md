@@ -1,4 +1,4 @@
-[![MasterHead]](https://media.licdn.com/dms/image/D4E16AQGRn-fmTRTPSg/profile-displaybackgroundimage-shrink_350_1400/0/1720452582700?e=1726704000&v=beta&t=H911reRLJ6FNcVBEGODQwgcKAH-iJVQi0gGVhFeBXss)(https://d2ni3l.github.io)
+[![MasterHead](https://media.licdn.com/dms/image/D4E16AQGRn-fmTRTPSg/profile-displaybackgroundimage-shrink_350_1400/0/1720452582700?e=1726704000&v=beta&t=H911reRLJ6FNcVBEGODQwgcKAH-iJVQi0gGVhFeBXss)](https://d2ni3l.github.io)
 
 
 <h1 align="center">Hi 👋, I'm Daniel</h1>
